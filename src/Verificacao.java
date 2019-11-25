@@ -73,10 +73,4 @@ public class Verificacao {
 				JOptionPane.INFORMATION_MESSAGE);
 	}
 
-	public static void Aviso_Final() {
-		JOptionPane.showMessageDialog(null,
-				"Criado por Lucas Besen \nO arquivo pode ser encontrado no link abaixo: \nhttps://github.com/Lucas-Besen/Valor_Sem_impostos/blob/master/Sem_Impostos.java",
-				"Informacoes", JOptionPane.INFORMATION_MESSAGE);
-	}
-
 }

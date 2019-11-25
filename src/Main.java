@@ -161,8 +161,6 @@ public class Main {
 
 		} while (escolhaSair != 1);
 
-		Verificacao.Aviso_Final();
-
 	}
 
 }
